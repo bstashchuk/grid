@@ -25,14 +25,14 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### `yarn test`
 
-Launches the test runner. There are test for following util fuctions:
+Launches the test runner. There are few tests for the following util fuctions:
 
 - create2DEmptyGrid
 - getRefreshedGrid
 
 ### Flow support
 
-Flow types checker is enabled for two files
+Flow types checker is enabled only for those two files
 
 - App.js
 - create2DEmptyGrid.js
